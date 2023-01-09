@@ -50,7 +50,11 @@ export default function Projects(){
                                     <div>
                                     <a target="_blank" rel='noreferrer' href="https://github.com/solanamr/WheatherApp">
                                     <FontAwesomeIcon icon={faGithub} color= '#6C757D' className='fonta' />
+                                        https://weather-app-solanamr.vercel.app/
                                     </a>
+                                    <a target="_blank" rel='noreferrer' href="https://weather-app-solanamr.vercel.app/">
+                                        <FontAwesomeIcon icon={faGlobe} color= '#6C757D' className='fonta' />
+                                        </a>
                                     </div>
                                 </div>
                         </div>
